@@ -4,6 +4,7 @@ out/
 *.tsbuildinfo
 work/
 *.log
+test-results/
+playwright-report/
 .env*
 !.env.example
-
